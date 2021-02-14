@@ -1,0 +1,5 @@
+markdown: kramdown
+deploy:
+  type: git
+  repository: https://github.com/mumberes/mumberes.github.io
+  branch: master
